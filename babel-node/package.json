@@ -1,0 +1,23 @@
+{
+  "name": "node-es6",
+  "version": "1.0.0",
+  "description": "node使用es6",
+  "main": "Test.js",
+  "type": "module",
+  "dependencies": {
+    "imagemin": "^8.0.0",
+    "imagemin-jpegtran": "^7.0.0",
+    "imagemin-pngquant": "^9.0.2",
+    "imagemin-svgo": "^9.0.0",
+    "imagemin-webp": "^6.0.0",
+    "sharp": "^0.28.3",
+    "util": "^0.12.4"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
